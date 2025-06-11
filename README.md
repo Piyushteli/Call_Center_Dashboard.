@@ -12,4 +12,4 @@ The Call Center Dashboard is a tool designed to provide real-time insights and k
 This folder is located in the "my-new-branch" branch.
 
 # Getting Started
-To get started with the Call Center Dashboard, please navigate to the my-new-branch branch and explore the contents of this folder.
+To get started with the Call Center Dashboard, please navigate to the "my-new-branch" branch and explore the contents of this folder.
